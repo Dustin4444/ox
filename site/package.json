@@ -26,7 +26,7 @@
     "ox": "workspace:*",
     "rollup": "catalog:",
     "shiki": "3.23.0",
-    "tsx": "^4.17.0",
+    "tsx": "^4.22.0",
     "typescript": "^5"
   },
   "packageManager": "pnpm@11.0.8"

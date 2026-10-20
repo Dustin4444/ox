@@ -47,7 +47,7 @@ catalog:
   typescript: ^5.5.4
   viem: ^2.45.0
   vite: npm:@voidzero-dev/vite-plus-core@0.1.24
-  vite-plus: 0.1.24
+  vite-plus: 1.1.0
   vitest: npm:@voidzero-dev/vite-plus-test@0.1.24
   vp: npm:vite-plus@0.1.24
   zile: ^0.0.29
